@@ -4,7 +4,7 @@ Guidance for Claude Code when working in this repository.
 
 ## Project
 - `go-app`: a starter Go project.
-- Module: `github.com/mdelaiglesia/go-app`
+- Module: `github.com/mdelaiglesia-builder/go-app`
 - Entry point: `main.go`
 
 ## Common commands
